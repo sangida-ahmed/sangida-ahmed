@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sangida! 👩🏽‍💻✨🛠️
 
-<!--
-**sangida-ahmed/sangida-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+**Languages:**
+Python 🐍 • SQL 🗄️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data & Analytics:**
+Tableau 📊 • Excel 📈 • Jupyter Notebook 📓 • PowerBI 💡
+
+**Testing & Validation:**
+Manual Testing 🔍 • Regression Testing 🔄 • Root Cause Analysis 🧠 • 
+Log Analysis 📋 • Test Plan Design 📝 • Bug Filing (Radar) 🐛
+
+**Wireless Domains:**
+Bluetooth 🔵 • Wi-Fi 📶 • Cellular 📡 • V2X 🚗 • LiFi 💡 • 
+Building Network Systems 🏢 • BMS Controls 🌡️ • IoT Sensors 📡
+
+**Tools & Technologies:**
+Git 🐙 • SAP/ERP ⚙️ • Wrike ✅ • Quip 📄 • Keynote 🎨 • 
+ServiceChannel 🏢 • Niagara 4 🌡️
+
+**Certifications:**
+Google IT Support Networking 🌐 • Google Project Management 📌 • 
+Rice University Engineering Project Management 🎓 • 
+Bloomberg Market Concepts 💹 • Google Ads Search 🔎
+
+## What I'm Building 🚀
+- 🔵 Bluetooth log analyzer for QA test automation
+- 📊 QA test results dashboard with category breakdown
+- 🐍 Learning Python for wireless validation and test automation
