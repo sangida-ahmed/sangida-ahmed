@@ -1,4 +1,7 @@
-# Hi, I'm Sangida! 👩🏽‍💻✨🛠️
+# Hi, I'm Sangida! 👩🏽‍💻✨
+
+8 years at Apple | Wireless validation background from Verizon | 
+Building toward QA Engineering one Python script at a time.
 
 ## Tech Stack
 
