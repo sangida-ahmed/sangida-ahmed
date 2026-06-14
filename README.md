@@ -28,6 +28,8 @@ Rice University Engineering Project Management •
 Bloomberg Market Concepts • Google Ads Search
 
 ## What I'm Building 🚀
-- 🔵 Bluetooth log analyzer for QA test automation
-- 📊 QA test results dashboard with category breakdown
+- 🔵 Bluetooth Log Analyzer — Python CLI tool + Flask web app 
+  for parsing device logs and generating QA reports
+- 📊 QA Test Results Dashboard — tracks pass/fail rates across 
+  Bluetooth, Audio, Firmware, and Pairing test categories
 - 🐍 Learning Python for wireless validation and test automation
